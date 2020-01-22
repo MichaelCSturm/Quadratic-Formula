@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29613.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Quadratic Formula", "Quadratic Formula.vcxproj", "{7BE1FE25-6562-4A50-92AE-91FD5C7D107C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7BE1FE25-6562-4A50-92AE-91FD5C7D107C}.Debug|x64.ActiveCfg = Debug|x64
+		{7BE1FE25-6562-4A50-92AE-91FD5C7D107C}.Debug|x64.Build.0 = Debug|x64
+		{7BE1FE25-6562-4A50-92AE-91FD5C7D107C}.Debug|x86.ActiveCfg = Debug|Win32
+		{7BE1FE25-6562-4A50-92AE-91FD5C7D107C}.Debug|x86.Build.0 = Debug|Win32
+		{7BE1FE25-6562-4A50-92AE-91FD5C7D107C}.Release|x64.ActiveCfg = Release|x64
+		{7BE1FE25-6562-4A50-92AE-91FD5C7D107C}.Release|x64.Build.0 = Release|x64
+		{7BE1FE25-6562-4A50-92AE-91FD5C7D107C}.Release|x86.ActiveCfg = Release|Win32
+		{7BE1FE25-6562-4A50-92AE-91FD5C7D107C}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {36BCBC09-536F-4867-8AFA-E16FD2BF5780}
+	EndGlobalSection
+EndGlobal
